@@ -1,1 +1,2 @@
 # Pandas-Basics
+Pandas is an open-source Python Library providing high-performance data manipulation and analysis tool using its powerful data structures.Prior to Pandas, Python was majorly used for data munging and preparation. It had very little contribution towards data analysis. Pandas solved this problem. Using Pandas, we can accomplish five typical steps in the processing and analysis of data, regardless of the origin of data — load, prepare, manipulate, model, and analyze.
